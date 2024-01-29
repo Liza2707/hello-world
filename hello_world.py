@@ -1,2 +1,2 @@
 print("Hello, world!")
-print("Yelyzaveta Tretiak, IPZ-3")
+print("Yelyzaveta Tretiak, group IPZ-3")
